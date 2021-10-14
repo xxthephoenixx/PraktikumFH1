@@ -15,4 +15,5 @@ C_DEPS :=
 SUBDIRS := \
 Aufgabe1 \
 src \
+src/AufgabeBlatt1 \
 
